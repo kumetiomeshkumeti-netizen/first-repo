@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Launcher to run the string concept/string.js with a short command
+node "$(dirname "$0")/../string concept/string.js" "$@"
